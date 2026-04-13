@@ -1,4 +1,4 @@
-<img width="1039" height="222" alt="Screenshot 2026-04-13 171202" src="https://github.com/user-attachments/assets/a95d438f-660f-4494-85ee-9c5bb8971703" /># Multi-Container Runtime
+# Multi-Container Runtime
 
 **Team Members:**
 - Ponakala Yathish — SRN: PES1UG24CS322
