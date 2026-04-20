@@ -2,7 +2,7 @@
 
 **Team Members:**
 - Ponakala Yathish — SRN: PES1UG24CS322
-- Vedanta Tripati — SRN: PES1UG24CS920
+- Vedanta Tripathi — SRN: PES1UG24CS920
 
 ---
 
