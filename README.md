@@ -128,6 +128,10 @@ sleep 12
 sudo ./engine logs cpu2
 sudo ./engine logs io2
 sudo dmesg | grep -E "cpu2|io2"
+
+sudo ./engine logs memtest
+sudo dmesg | grep -E "SOFT|HARD"
+sudo dmesg | grep -E "hog_hi|hog_lo|cpu2|io2"
 ```
 
 ### Clean Up
